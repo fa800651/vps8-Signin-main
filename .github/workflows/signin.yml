@@ -1,4 +1,4 @@
-name: VPS8-Signin
+name: VPS-Signin
 
 on:
   workflow_dispatch:
